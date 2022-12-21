@@ -3,7 +3,7 @@ import time
 import jiosaavn
 import os
 from traceback import print_exc
-from Flask-Cors import CORS
+from flask_cors import CORS
 
 app = Flask(__name__)
 app.secret_key = os.environ.get("SECRET", 'thankyoutonystark#weloveyou3000')
