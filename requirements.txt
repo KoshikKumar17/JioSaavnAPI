@@ -2,4 +2,4 @@ Flask
 gunicorn
 requests
 pyDes
-flask-cors
+Flask-Cors
