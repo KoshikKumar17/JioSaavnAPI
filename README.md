@@ -66,15 +66,15 @@
 
 Clone this repository using
 ```sh
-$ git clone https://github.com/cyberboysumanjay/JioSaavnAPI
+git clone https://github.com/KoshikKumar17/JioSaavnAPI
 ```
 Enter the directory and install all the requirements using
 ```sh
-$ pip3 install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 Run the app using
 ```sh
-$ python3 app.py
+python3 app.py
 ```
 Navigate to 127.0.0.1:5000 to see the Homepage
 
